@@ -1,6 +1,6 @@
 <h3 align="center">A Computer Science Student from Turkey</h3>
 
-- For inquiries **ataberkyiilmaz@outlook.com**
+- For business inquiries **ataberkyiilmaz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
