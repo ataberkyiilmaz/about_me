@@ -1,6 +1,6 @@
 <h3 align="center">A Computer Science Student from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ataberkyiilmaz" alt="ataberkyiilmaz" /></a> </p>
+- For inquiries **ataberkyiilmaz@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
