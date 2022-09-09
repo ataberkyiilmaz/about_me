@@ -1,4 +1,4 @@
-<h3 align="center">A Computer Science Student from Turkey</h3>
+<h3 align="center">Jr. Back-End Developer from Turkey</h3>
 
 - For business inquiries **ataberkyiilmaz@outlook.com**
 
